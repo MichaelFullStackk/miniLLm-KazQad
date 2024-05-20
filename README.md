@@ -69,7 +69,7 @@ Finally, on Apple Silicon Macbooks and with a recent PyTorch version make sure t
 to ask spesific question:
 
 ```
-$ python sample.py --out_dir=out-shakespeare-char --device=cpu --start="Амазонка бассейні картада қайда орналасқан?:" --num_samples=1 --max_new_tokens=100 
+$ python sample.py --out_dir=out-qazdata-char --device=cpu --start="Амазонка бассейні картада қайда орналасқан?:" --num_samples=1 --max_new_tokens=100 
 ```
 
 ## reproducing GPT-2
